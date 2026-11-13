@@ -1,3 +1,4 @@
+import './style.less';
 const boton = document.getElementById("botonInfo");
 const mensaje = document.getElementById("mensajeInfo");
 
